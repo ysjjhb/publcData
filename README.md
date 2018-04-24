@@ -1,2 +1,2 @@
-# publcData
+# publicData
 publcData
