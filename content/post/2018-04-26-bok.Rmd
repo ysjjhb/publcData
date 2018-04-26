@@ -1,0 +1,11 @@
+---
+title: bok
+author: bok
+date: '2018-04-26'
+slug: bok
+categories:
+  - R
+tags:
+  - R Markdown
+---
+bokbok sex
